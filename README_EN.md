@@ -5,9 +5,12 @@
 
 An educational and research-oriented project focused on **real-time network interaction**: a client–server architecture with a Unity client used to visualize synchronized objects.
 
-The project is designed for a **deep understanding of networking architectures**, message queues, latency, interpolation, and state processing in real-time systems (games, simulations).
+The project is designed for a **deep understanding of networking architectures**, message queues, latency, interpolation, and state processing in real-time systems (games, simulations).   
+
 
 ![](./Resources/demo_gif.gif)
+
+
 
 ---
 
